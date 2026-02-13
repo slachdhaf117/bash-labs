@@ -4,17 +4,13 @@ A collection of scripts I've made while improving my shell scripting skills with
 
 ## What’s inside
 
-**Text processing: **
-Scripts to extract, clean, and transform data from logs and command output.
+**Text processing**: Scripts to extract, clean, and transform data from logs and command output.
 
-**System automation: **
-Small automations for monitoring resources, running checks, and generating quick reports.
+**System automation**:  Small automations for monitoring resources, running checks, and generating quick reports.
 
-**Security checks: **
-Basic log inspection and simple credential-leak detection in local environments.
+**Security checks**:  Basic log inspection and simple credential-leak detection in local environments.
 
-**Data normalization: **
-Turning messy command output into cleaner formats like CSV or JSON when needed.
+**Data normalization**:  Turning messy command output into cleaner formats like CSV or JSON when needed.
 
 ## Repository structure
 
